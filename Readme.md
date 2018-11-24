@@ -3,7 +3,7 @@
 ## Install
 
 ```shellscript
-npm i --save-dev <URL>
+npm i --save-dev serverless-static-website-plugin
 ```
 
 ## Usage
