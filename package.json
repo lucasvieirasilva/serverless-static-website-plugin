@@ -1,0 +1,7 @@
+{
+  "name": "serverless-static-website-plugin",
+  "version": "1.0.0",
+  "description": "A plugin to simplify deploying Static Website Application using S3 and CloudFront",
+  "author": "",
+  "license": "MIT"
+}
