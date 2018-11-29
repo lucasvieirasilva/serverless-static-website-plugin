@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "A plugin to simplify deploying Static Website Application using S3 and CloudFront",
   "author": "Lucas Vieira <lucas.vieira94@outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/lucasvieirasilva/serverless-static-website-plugin",
+  "man": "Readme.md",
+  "repository": "github:lucasvieirasilva/serverless-static-website-plugin"
 }
